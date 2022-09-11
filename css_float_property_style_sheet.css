@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: azure;
+    font-size: 20px,
+}
+h1.hed1{
+    color:darkblue;
+    background-color: yellow;
+    display: inline-block;
+    border-radius: 10px;
+    font-family:serif;
+    
+}
+.ione, .itwo,.ithree{
+        
+    float:left;
+}
+
+p{
+ font-weight: bolder ;
+}
+
+article{
+    border: 2px ;
+    line-height: 150%;
+    border-radius: 25px;
+    
+}
+.durga-puja{
+    line-height: normal;
+}
+
+
+
+
+
+
+
